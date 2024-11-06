@@ -31,8 +31,7 @@ Before you start, ensure you have the following installed on your local machine:
 2. **Install required dependencies**:
 
    Make sure you have the necessary Python dependencies installed:
-
-# Project Setup (Without Docker)
+   **Without Docker**
 
 ```bash
 pip install -r requirements.txt
