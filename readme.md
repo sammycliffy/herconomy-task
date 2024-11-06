@@ -32,11 +32,13 @@ Before you start, ensure you have the following installed on your local machine:
 
    Make sure you have the necessary Python dependencies installed:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+# Project Setup (Without Docker)
 
-   This will install Django, Django REST Framework (DRF), Celery, PostgreSQL, and other dependencies required for the application.
+```bash
+pip install -r requirements.txt
+```
+
+This will install Django, Django REST Framework (DRF), Celery, PostgreSQL, and other dependencies required for the application.
 
 3. **Docker Setup**:
 
