@@ -25,7 +25,7 @@ Before you start, ensure you have the following installed on your local machine:
 
    ```bash
    git clone https://github.com/sammycliffy/herconomy-task.git
-   cd finance_project
+   cd herconomy-task
    ```
 
 2. **Install required dependencies**:
