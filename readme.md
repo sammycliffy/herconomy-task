@@ -24,7 +24,7 @@ Before you start, ensure you have the following installed on your local machine:
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/sammycliffy/herconomy-task.git
    cd finance_project
    ```
 
