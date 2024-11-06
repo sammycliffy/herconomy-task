@@ -28,10 +28,9 @@ Before you start, ensure you have the following installed on your local machine:
    cd herconomy-task
    ```
 
-2. **Install required dependencies**:
+2. **Install required dependencies without Docker**:
 
    Make sure you have the necessary Python dependencies installed:
-   **Without Docker**
 
 ```bash
 pip install -r requirements.txt
